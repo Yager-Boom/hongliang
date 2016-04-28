@@ -1,0 +1,83 @@
+[31-Mar-2016 13:11:49 Asia/Taipei] Login failed for user lovelanew30@hongliangit.com
+[31-Mar-2016 13:12:12 Asia/Taipei] Login failed for user lovelanew30@hongliangit.com
+[31-Mar-2016 13:12:57 Asia/Taipei] Login failed for user lovelanew30@hongliangit.com
+[31-Mar-2016 13:13:41 Asia/Taipei] Login failed for user lovelanew30@hongliangit.com
+[31-Mar-2016 13:14:01 Asia/Taipei] Login failed for user s12101115@stu.edu.tw
+[31-Mar-2016 13:15:10 Asia/Taipei] Login failed for user lovelanew30@hongliangit.com
+[31-Mar-2016 13:15:20 Asia/Taipei] Login failed for user lovelanew30@hongliangit.com
+[31-Mar-2016 13:15:39 Asia/Taipei] Login failed for user lovelanew30@hongliangit.com
+[31-Mar-2016 13:16:22 Asia/Taipei] Login failed for user "1 = '1' OR 1"/
+[31-Mar-2016 13:18:10 Asia/Taipei] Login failed for user lovelanew30@hongliangit.com
+[31-Mar-2016 13:18:22 Asia/Taipei] Login failed for user lovelanew30@hongliangit.com
+[31-Mar-2016 13:20:16 Asia/Taipei] Login failed for user lovelanew30@hongliangit.com
+[31-Mar-2016 13:22:54 Asia/Taipei] Login failed for user lovelanew30@hongliangit.com
+[31-Mar-2016 13:23:39 Asia/Taipei] Login failed for user lovelanew30@hongliangit.com
+[31-Mar-2016 13:24:15 Asia/Taipei] Login failed for user lovelanew30@hongliangit.com
+[31-Mar-2016 13:26:04 Asia/Taipei] Login failed for user lovelanew30@hongliangit.com
+[31-Mar-2016 13:26:26 Asia/Taipei] Login failed for user lovelanew30@hongliangit.com
+[31-Mar-2016 13:26:45 Asia/Taipei] Login failed for user lovelanew30@hongliangit.com
+[31-Mar-2016 13:29:08 Asia/Taipei] Login failed for user lovelanew30@hongliangit.com
+[31-Mar-2016 13:29:16 Asia/Taipei] Login failed for user lovelanew30@hongliangit.com
+[31-Mar-2016 13:29:17 Asia/Taipei] Login failed for user lovelanew30@hongliangit.com
+[31-Mar-2016 13:30:47 Asia/Taipei] Login failed for user lovelanew30@hongliangit.com
+[31-Mar-2016 13:32:03 Asia/Taipei] PHP Notice: A feed could not be found at https://www.pyrocms.com/blog/rss/all.rss. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed. in /home/learnhongliangit/public_html/lovelanew30/system/cms/libraries/Simplepie.php on line 1956
+[31-Mar-2016 13:32:10 Asia/Taipei] PHP Notice: A feed could not be found at https://www.pyrocms.com/blog/rss/all.rss. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed. in /home/learnhongliangit/public_html/lovelanew30/system/cms/libraries/Simplepie.php on line 1956
+[31-Mar-2016 13:37:01 Asia/Taipei] PHP Notice: A feed could not be found at https://www.pyrocms.com/blog/rss/all.rss. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed. in /home/learnhongliangit/public_html/lovelanew30/system/cms/libraries/Simplepie.php on line 1956
+[31-Mar-2016 13:43:16 Asia/Taipei] PHP Notice: A feed could not be found at https://www.pyrocms.com/blog/rss/all.rss. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed. in /home/learnhongliangit/public_html/lovelanew30/system/cms/libraries/Simplepie.php on line 1956
+[31-Mar-2016 13:45:18 Asia/Taipei] PHP Notice: A feed could not be found at https://www.pyrocms.com/blog/rss/all.rss. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed. in /home/learnhongliangit/public_html/lovelanew30/system/cms/libraries/Simplepie.php on line 1956
+[31-Mar-2016 13:48:46 Asia/Taipei] PHP Notice: A feed could not be found at https://www.pyrocms.com/blog/rss/all.rss. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed. in /home/learnhongliangit/public_html/lovelanew30/system/cms/libraries/Simplepie.php on line 1956
+[31-Mar-2016 13:52:20 Asia/Taipei] PHP Notice: A feed could not be found at https://www.pyrocms.com/blog/rss/all.rss. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed. in /home/learnhongliangit/public_html/lovelanew30/system/cms/libraries/Simplepie.php on line 1956
+[31-Mar-2016 14:52:17 Asia/Taipei] PHP Notice: A feed could not be found at https://www.pyrocms.com/blog/rss/all.rss. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed. in /home/learnhongliangit/public_html/lovelanew30/system/cms/libraries/Simplepie.php on line 1956
+[31-Mar-2016 15:20:14 Asia/Taipei] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/learnhongliangit/public_html/lovelanew30/addons/shared_addons/modules/articles/details.php on line 39
+[31-Mar-2016 16:16:09 Asia/Taipei] PHP Fatal error:  Call to a member function set_rules() on array in /home/learnhongliangit/public_html/lovelanew30/addons/shared_addons/modules/articles/controllers/admin/article.php on line 28
+[31-Mar-2016 16:16:32 Asia/Taipei] PHP Fatal error:  Call to a member function set_rules() on array in /home/learnhongliangit/public_html/lovelanew30/addons/shared_addons/modules/articles/controllers/admin/article.php on line 28
+[31-Mar-2016 16:17:57 Asia/Taipei] PHP Fatal error:  Call to a member function set_rules() on array in /home/learnhongliangit/public_html/lovelanew30/addons/shared_addons/modules/articles/controllers/admin/article.php on line 29
+[31-Mar-2016 16:18:17 Asia/Taipei] PHP Fatal error:  Call to a member function set_rules() on array in /home/learnhongliangit/public_html/lovelanew30/addons/shared_addons/modules/articles/controllers/admin/article.php on line 43
+[31-Mar-2016 16:18:56 Asia/Taipei] PHP Fatal error:  Call to a member function set_rules() on array in /home/learnhongliangit/public_html/lovelanew30/addons/shared_addons/modules/articles/controllers/admin/article.php on line 29
+[31-Mar-2016 16:19:15 Asia/Taipei] PHP Fatal error:  Call to a member function set_rules() on array in /home/learnhongliangit/public_html/lovelanew30/addons/shared_addons/modules/articles/controllers/admin/article.php on line 29
+[31-Mar-2016 16:19:23 Asia/Taipei] PHP Fatal error:  Call to a member function set_rules() on array in /home/learnhongliangit/public_html/lovelanew30/addons/shared_addons/modules/articles/controllers/admin/article.php on line 29
+[31-Mar-2016 16:19:26 Asia/Taipei] PHP Fatal error:  Call to a member function set_rules() on array in /home/learnhongliangit/public_html/lovelanew30/addons/shared_addons/modules/articles/controllers/admin/article.php on line 29
+[31-Mar-2016 16:19:30 Asia/Taipei] PHP Fatal error:  Call to a member function set_rules() on array in /home/learnhongliangit/public_html/lovelanew30/addons/shared_addons/modules/articles/controllers/admin/article.php on line 29
+[31-Mar-2016 16:19:49 Asia/Taipei] PHP Fatal error:  Call to a member function run() on array in /home/learnhongliangit/public_html/lovelanew30/addons/shared_addons/modules/articles/controllers/admin/article.php on line 48
+[31-Mar-2016 16:58:56 Asia/Taipei] PHP Notice: A feed could not be found at https://www.pyrocms.com/blog/rss/all.rss. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed. in /home/learnhongliangit/public_html/lovelanew30/system/cms/libraries/Simplepie.php on line 1956
+[31-Mar-2016 17:00:41 Asia/Taipei] PHP Notice: A feed could not be found at https://www.pyrocms.com/blog/rss/all.rss. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed. in /home/learnhongliangit/public_html/lovelanew30/system/cms/libraries/Simplepie.php on line 1956
+[31-Mar-2016 17:04:37 Asia/Taipei] PHP Notice: A feed could not be found at https://www.pyrocms.com/blog/rss/all.rss. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed. in /home/learnhongliangit/public_html/lovelanew30/system/cms/libraries/Simplepie.php on line 1956
+[31-Mar-2016 17:04:42 Asia/Taipei] PHP Notice: A feed could not be found at https://www.pyrocms.com/blog/rss/all.rss. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed. in /home/learnhongliangit/public_html/lovelanew30/system/cms/libraries/Simplepie.php on line 1956
+[31-Mar-2016 17:04:52 Asia/Taipei] PHP Notice: A feed could not be found at https://www.pyrocms.com/blog/rss/all.rss. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed. in /home/learnhongliangit/public_html/lovelanew30/system/cms/libraries/Simplepie.php on line 1956
+[01-Apr-2016 10:20:55 Asia/Taipei] PHP Notice: A feed could not be found at https://www.pyrocms.com/blog/rss/all.rss. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed. in /home/learnhongliangit/public_html/lovelanew30/system/cms/libraries/Simplepie.php on line 1956
+[02-Apr-2016 21:42:30 Asia/Taipei] Login failed for user lovelanew30@hongliangit.com
+[02-Apr-2016 21:43:01 Asia/Taipei] PHP Notice: A feed could not be found at https://www.pyrocms.com/blog/rss/all.rss. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed. in /home/learnhongliangit/public_html/lovelanew30/system/cms/libraries/Simplepie.php on line 1956
+[05-Apr-2016 14:06:45 Asia/Taipei] PHP Notice: A feed could not be found at https://www.pyrocms.com/blog/rss/all.rss. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed. in /home/learnhongliangit/public_html/lovelanew30/system/cms/libraries/Simplepie.php on line 1956
+[05-Apr-2016 14:25:17 Asia/Taipei] PHP Notice: A feed could not be found at https://www.pyrocms.com/blog/rss/all.rss. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed. in /home/learnhongliangit/public_html/lovelanew30/system/cms/libraries/Simplepie.php on line 1956
+[05-Apr-2016 14:26:06 Asia/Taipei] PHP Notice: A feed could not be found at https://www.pyrocms.com/blog/rss/all.rss. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed. in /home/learnhongliangit/public_html/lovelanew30/system/cms/libraries/Simplepie.php on line 1956
+[05-Apr-2016 14:26:09 Asia/Taipei] PHP Notice: A feed could not be found at https://www.pyrocms.com/blog/rss/all.rss. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed. in /home/learnhongliangit/public_html/lovelanew30/system/cms/libraries/Simplepie.php on line 1956
+[05-Apr-2016 14:30:53 Asia/Taipei] PHP Notice: A feed could not be found at https://www.pyrocms.com/blog/rss/all.rss. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed. in /home/learnhongliangit/public_html/lovelanew30/system/cms/libraries/Simplepie.php on line 1956
+[05-Apr-2016 14:32:14 Asia/Taipei] PHP Notice: A feed could not be found at https://www.pyrocms.com/blog/rss/all.rss. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed. in /home/learnhongliangit/public_html/lovelanew30/system/cms/libraries/Simplepie.php on line 1956
+[05-Apr-2016 14:32:23 Asia/Taipei] PHP Fatal error:  Uncaught exception 'Exception' with message 'Module project has an incorrect details.php class. It should be called 'Module_Project'.' in /home/learnhongliangit/public_html/lovelanew30/system/cms/modules/addons/models/module_m.php:709
+Stack trace:
+#0 /home/learnhongliangit/public_html/lovelanew30/system/cms/modules/addons/models/module_m.php(643): Module_m->_spawn_class('project', false)
+#1 /home/learnhongliangit/public_html/lovelanew30/system/cms/modules/addons/controllers/admin_modules.php(38): Module_m->import_unknown()
+#2 [internal function]: Admin_modules->index()
+#3 /home/learnhongliangit/public_html/lovelanew30/system/codeigniter/core/CodeIgniter.php(355): call_user_func_array(Array, Array)
+#4 /home/learnhongliangit/public_html/lovelanew30/index.php(271): require_once('/home/learnhong...')
+#5 {main}
+  thrown in /home/learnhongliangit/public_html/lovelanew30/system/cms/modules/addons/models/module_m.php on line 709
+[05-Apr-2016 14:34:14 Asia/Taipei] PHP Fatal error:  Uncaught exception 'Exception' with message 'Module project has an incorrect details.php class. It should be called 'Module_Project'.' in /home/learnhongliangit/public_html/lovelanew30/system/cms/modules/addons/models/module_m.php:709
+Stack trace:
+#0 /home/learnhongliangit/public_html/lovelanew30/system/cms/modules/addons/models/module_m.php(643): Module_m->_spawn_class('project', false)
+#1 /home/learnhongliangit/public_html/lovelanew30/system/cms/modules/addons/controllers/admin_modules.php(38): Module_m->import_unknown()
+#2 [internal function]: Admin_modules->index()
+#3 /home/learnhongliangit/public_html/lovelanew30/system/codeigniter/core/CodeIgniter.php(355): call_user_func_array(Array, Array)
+#4 /home/learnhongliangit/public_html/lovelanew30/index.php(271): require_once('/home/learnhong...')
+#5 {main}
+  thrown in /home/learnhongliangit/public_html/lovelanew30/system/cms/modules/addons/models/module_m.php on line 709
+[05-Apr-2016 14:35:16 Asia/Taipei] PHP Fatal error:  Uncaught exception 'Exception' with message 'Module project has an incorrect details.php class. It should be called 'Module_Project'.' in /home/learnhongliangit/public_html/lovelanew30/system/cms/modules/addons/models/module_m.php:709
+Stack trace:
+#0 /home/learnhongliangit/public_html/lovelanew30/system/cms/modules/addons/models/module_m.php(643): Module_m->_spawn_class('project', false)
+#1 /home/learnhongliangit/public_html/lovelanew30/system/cms/modules/addons/controllers/admin_modules.php(38): Module_m->import_unknown()
+#2 [internal function]: Admin_modules->index()
+#3 /home/learnhongliangit/public_html/lovelanew30/system/codeigniter/core/CodeIgniter.php(355): call_user_func_array(Array, Array)
+#4 /home/learnhongliangit/public_html/lovelanew30/index.php(271): require_once('/home/learnhong...')
+#5 {main}
+  thrown in /home/learnhongliangit/public_html/lovelanew30/system/cms/modules/addons/models/module_m.php on line 709
+[06-Apr-2016 09:47:28 Asia/Taipei] Login failed for user lovelanew30@hongliangit.com
