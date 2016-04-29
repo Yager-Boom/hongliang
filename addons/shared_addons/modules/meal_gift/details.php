@@ -2,7 +2,7 @@
 
 class Module_meal_gift extends Module
 {
-    public $version = '2.0.2';
+    public $version = '2.0.3';
     protected $section="project";
     public function info()
     {
@@ -88,7 +88,7 @@ class Module_meal_gift extends Module
     //反安裝並移除資料表
     public function upgrade($old_version)
     {
-        if (version_compare('2.0.2', $old_version, '>')) {
+        if (version_compare('2.0.3', $old_version, '>')) {
             //版本判斷
         }
         return true;

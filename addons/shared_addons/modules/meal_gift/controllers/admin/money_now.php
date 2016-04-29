@@ -105,14 +105,18 @@ class money_now extends Admin_Controller
             $data_meal_gift = array(
                 'name' => $name_chose,
                 'date' => date("Y-m-d H:i:s"),
-                'money' => $money_output
+                'money' => $money_output,
             );
             $this->meal_gift_m->insert($data_meal_gift);
+            var_dump($result_input,$result_output);
             redirect("admin/meal_gift");
         }
         $name_all = $this->money_now_m->select("name")->group_by("name")->get_all();
+        $this->money_now_m->update($name_chose->id,$result_output);
+        $this->money_now_m->update($name_chose->id,$result_input);
         $this->template
-            ->set("output",$name_all)
+            ->set("")
+            ->set("")
             ->build('output/form');
     }
     public function account()
