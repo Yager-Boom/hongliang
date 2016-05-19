@@ -52,7 +52,7 @@ class Account extends Admin_Controller {
     public function create(){
         //新增帳戶
         $this->form_validation->set_rules($this->validationRules);
-        $time = date("Ymd");
+        $time = date("Y-m-d H:i:s");
         if ($this->form_validation->run()) {
             $account_name = $this->input->post("account_name");
             $insertData = array(
@@ -76,7 +76,6 @@ class Account extends Admin_Controller {
                 $this->session->set_flashdata("success", "新增帳戶成功");
                 //session:安裝成功或失敗的提示
                 if ($this->input->post("btnAction") == "save")
-                //
                     redirect("admin/meal_money_management/edit/" . $id);
                 if ($this->input->post("btnAction") == "save_exit")
                     redirect("admin/meal_money_management");
@@ -97,7 +96,7 @@ class Account extends Admin_Controller {
 
         $account_data = $this->mmm_account_m->get_by("id",$id);
 
-        $time = date("Ymd");
+        $time = date("Y-m-d H:i:s");
 
         $this->form_validation->set_rules($this->validationRules);
 
@@ -143,7 +142,7 @@ class Account extends Admin_Controller {
         $account = $this->mmm_account_m->get_by("id",$id);
         $account or redirect("admin/meal_money_management");
         if($this->account_m->delete_by("id",$id)){
-            $time = date("Ymd-h:i,a");
+            $time = date("Y-m-d H:i:s");
             $insertData_history = array(
                 "account_name" => $account->account_name,
                 "money_now" => 0,
@@ -168,7 +167,7 @@ class Account extends Admin_Controller {
         $id or rediect("admin/meal_money_management");
 
         $account_data = $this->mmm_account_m->get_by("id",$id);
-        $time = date("Ymd-h:i,a");
+        $time = date("Y-m-d H:i:s");
 
         $this->form_validation->set_rules($this->giftRules);
 
@@ -209,8 +208,8 @@ class Account extends Admin_Controller {
             redirect("admin/meal_money_management/gift_expenditure/".$id);
         }
         $action_all=array();
-        $action_all["gift"] = "gift";
-        $action_all["expenditure"] = "expenditure";
+        $action_all["gift"] = "儲值";
+        $action_all["expenditure"] = "支出";
 //新增陣列action_all
         $this->template
             ->set("action_all",$action_all)
@@ -220,7 +219,7 @@ class Account extends Admin_Controller {
         $id or rediect("admin/meal_money_management");
 
         $account_data = $this->mmm_account_m->get_by("id",$id);
-        $time = date("Ymd-h:i,a");
+        $time = date("Y-m-d H:i:s");
         $this->form_validation->set_rules($this->turnRules);
 
         if ($this->form_validation->run()) {

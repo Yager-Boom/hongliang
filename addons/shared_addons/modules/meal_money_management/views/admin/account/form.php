@@ -17,9 +17,9 @@
         <ul>
             <div class="buttons">
                 <?php $this->load->view('admin/partials/buttons', array('buttons' => array('save', 'save_exit', 'cancel'))) ?>
-                //buttons分為save、save_exit、cancel三種
             </div>
         </ul>
         <?= form_close() ?>
+        <!--buttons分為save、save_exit、cancel三種-->
     </div>
 </section>
